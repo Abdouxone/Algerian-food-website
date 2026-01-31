@@ -19,7 +19,7 @@ export default function TopNav() {
         </div>
         <h1 className="text-2xl sm:text-3xl lg:text-4xl px-3 ">
           Alg
-          <span>Plats</span>
+          <span className="font-bold">Plats</span>
         </h1>
         <div className="hidden lg:flex items-center bg-gray-200 rounded-full p-1 text-[15px] ">
           <p className="bg-orange-700 rounded-full text-white p-2 font-bold">
@@ -41,7 +41,10 @@ export default function TopNav() {
         <p className="text-white font-bold pl-2">Cart</p>
       </button>
       {SideNav ? (
-        <div className="bg-black/60 fixed w-full h-screen z-10 top-0 left-0  "></div>
+        <div
+          className="bg-black/60 fixed w-full h-screen z-10 top-0 left-0 "
+          onClick={() => setSideNav(!SideNav)}
+        ></div>
       ) : null}
       <div
         className={
