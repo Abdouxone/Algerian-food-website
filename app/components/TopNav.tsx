@@ -31,8 +31,7 @@ export default function TopNav() {
       <div className="bg-gray-200 flex items-center rounded-full text-3xl px-2 w-50 sm:w-100 lg:w-125">
         <AiOutlineSearch size={25} />
         <input
-          type="text"
-          className="bg-transparent p-2 w-full focus:outline-none"
+          className="bg-transparent p-2 w-full focus:outline-none text-xl"
           placeholder="search meals"
         />
       </div>
