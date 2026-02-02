@@ -25,7 +25,11 @@ export default function TopPicks() {
           autoplay={true}
           loop={true}
           modules={[Pagination, Navigation]}
-          style={{ "--swiper-navigation-color": "#ffff" }}
+          style={
+            {
+              "--swiper-navigation-color": "#ffff",
+            } as React.CSSProperties
+          }
         >
           {topPicks.map((item) => {
             return (
