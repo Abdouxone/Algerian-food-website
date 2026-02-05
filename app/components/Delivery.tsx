@@ -15,11 +15,13 @@ export default function Delivery() {
           src="https://res.cloudinary.com/ehizeex-shop/image/upload/v1672676822/NetflixApp/FC_two_phones.6ec9a842f905769677f9_m91off.webp"
         />
         <div className="flex flex-col justify-center">
-          <p className="text-[#00df9a] font-bold">Get The App</p>
-          <h1 className="md:text-4xl sm:text-3xl text-2xl font-bold py-2">
+          <p className="text-[#00df9a] font-bold hidden lg:block">
+            Get The App
+          </p>
+          <h1 className="md:text-4xl sm:text-3xl text-2xl font-bold py-2 hidden lg:block">
             Limitless Convenience on-demand
           </h1>
-          <p>
+          <p className="hidden lg:block">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum
             molestiae delectus culpa hic assumenda, voluptate reprehenderit
             dolore autem cum ullam sed odit perspiciatis. Doloribus quos velit,

@@ -29,7 +29,7 @@ export default function Featured() {
         style={{ backgroundImage: `url(${images[currentIndex].url})` }}
       >
         <div
-          className="hidden group-hover:block absolute top-55 left-8 p-1 rounded-full cursor-pointer  bg-amber-700/90 "
+          className=" absolute top-55 left-8 p-1 rounded-full cursor-pointer  bg-amber-700/60 "
           onClick={() =>
             setCurrentIndex((prevIndex) =>
               prevIndex === 0 ? images.length - 1 : prevIndex - 1,
@@ -39,7 +39,7 @@ export default function Featured() {
           <BsChevronCompactLeft size={25} color="white" />
         </div>
         <div
-          className="hidden group-hover:block bg-amber-700/90 absolute rounded-full p-1 right-8 top-55 cursor-pointer"
+          className=" bg-amber-700/60 absolute rounded-full p-1 right-8 top-55 cursor-pointer"
           onClick={() => setCurrentIndex((currentIndex + 1) % images.length)}
         >
           <BsChevronCompactRight size={25} color="white" />
