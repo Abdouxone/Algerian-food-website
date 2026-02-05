@@ -23,7 +23,7 @@ export default function Meal() {
             All
           </button>
           <button
-            onClick={() => filterMeal("pizza")}
+            onClick={() => filterMeal("plates")}
             className="border rounded-3xl px-3 m-3  border-orange-700 text-white bg-orange-700 hover:bg-white hover:text-orange-700 "
           >
             Plates
