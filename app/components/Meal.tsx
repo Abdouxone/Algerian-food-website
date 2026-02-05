@@ -4,7 +4,7 @@ export default function Meal() {
   return (
     <div className="mt-10 max-w-400 m-auto">
       <h1 className="text-2xl text-center text-orange-500 font-bold mb-5">
-        Our Meal
+        Algerian Plates
       </h1>
       <div className="grid md:grid-cols-2 sm:grid-cols-1 lg:grid-cols-4 gap-6">
         {mealData.map((meal) => {

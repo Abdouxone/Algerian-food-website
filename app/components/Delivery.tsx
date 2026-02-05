@@ -6,8 +6,8 @@ export default function Delivery() {
       <h1 className="text-orange-600 text-2xl font-bold text-center">
         Quick Delivery App
       </h1>
-      <div className="w-310 bg-white mx-auto grid md:grid-cols-2">
-        <Image
+      <div className="lg:w-310 bg-white mx-auto grid sm:grid-cols-1 lg:grid-cols-2">
+        <img
           className="w-137.5 mx-auto my-4"
           alt="phone app pic"
           width={700}

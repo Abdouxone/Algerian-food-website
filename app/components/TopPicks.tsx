@@ -11,7 +11,7 @@ import { topPicks } from "../data/data";
 export default function TopPicks() {
   return (
     <>
-      <h1 className="text-center text-4xl font-bold text-orange-500 mb-2">
+      <h1 className="hidden lg:block text-center text-4xl font-bold text-orange-500 mb-2">
         Top Picks
       </h1>
       <div className="hidden lg:flex max-w-400 m-auto py-2 px-2">
