@@ -71,7 +71,7 @@ export const mealData = [
   {
     id: 5,
     name: "Frites Omelette",
-    category: "pizza",
+    category: "plates",
     image:
       "https://res.cloudinary.com/dckhzlw83/image/upload/v1770316224/sddefault_epswbq.jpg",
     price: "Da200",
@@ -79,7 +79,7 @@ export const mealData = [
   {
     id: 6,
     name: "Karantika",
-    category: "pizza",
+    category: "plates",
     image:
       "https://res.cloudinary.com/dckhzlw83/image/upload/v1770316330/d278b706d3644366895c53180c85c435_v3r24h.jpg",
     price: "Da300",
@@ -87,7 +87,7 @@ export const mealData = [
   {
     id: 7,
     name: "Chorba Frik",
-    category: "pizza",
+    category: "plates",
     image:
       "https://res.cloudinary.com/dckhzlw83/image/upload/v1770316400/Chorba-frik_rl97yk.webp",
     price: "Da100",
@@ -95,7 +95,7 @@ export const mealData = [
   {
     id: 8,
     name: "Harira Algérienne",
-    category: "pizza",
+    category: "plates",
     image:
       "https://res.cloudinary.com/dckhzlw83/image/upload/v1770316461/harira-alg%C3%A9rienne1_mux7pd.jpg",
     price: "Da140",
@@ -103,7 +103,7 @@ export const mealData = [
   {
     id: 16,
     name: "Rechta",
-    category: "Salad",
+    category: "salad",
     image:
       "https://res.cloudinary.com/dckhzlw83/image/upload/v1770316534/hq720_njofxr.jpg",
     price: "Da140",
@@ -111,7 +111,7 @@ export const mealData = [
   {
     id: 9,
     name: "Bourak",
-    category: "salad",
+    category: "salty",
     image:
       "https://res.cloudinary.com/dckhzlw83/image/upload/v1770316589/sddefault_1_w735ab.jpg",
     price: "Da300",
@@ -119,7 +119,7 @@ export const mealData = [
   {
     id: 10,
     name: "Zviti",
-    category: "salad",
+    category: "plates",
     image:
       "https://res.cloudinary.com/dckhzlw83/image/upload/v1770316664/maxresdefault_wznt1r.jpg",
     price: "Da300",
@@ -127,7 +127,7 @@ export const mealData = [
   {
     id: 11,
     name: "Mhajeb",
-    category: "salad",
+    category: "plates",
     image:
       "https://res.cloudinary.com/dckhzlw83/image/upload/v1770316721/maxresdefault_1_kug4b8.jpg",
     price: "Da200",
@@ -135,7 +135,7 @@ export const mealData = [
   {
     id: 12,
     name: "Tajine Zitoune",
-    category: "chiken",
+    category: "plates",
     image:
       "https://res.cloudinary.com/dckhzlw83/image/upload/v1770316779/Tajine-Zitoune-III_djnhh1.jpg",
     price: "Da100",
@@ -143,7 +143,7 @@ export const mealData = [
   {
     id: 13,
     name: "Couscous",
-    category: "chicken",
+    category: "plates",
     image:
       "https://res.cloudinary.com/dckhzlw83/image/upload/v1770316918/algerian-food-01-1024x640_fdiyk4.jpg",
     price: "Da100",
@@ -151,7 +151,7 @@ export const mealData = [
   {
     id: 14,
     name: "Baghrir",
-    category: "chicken",
+    category: "sugary",
     image:
       "https://res.cloudinary.com/dckhzlw83/image/upload/v1770317002/8085d90bf9b94a9f99d2f510be9ece25_rgjoti.jpg",
     price: "Da300",
@@ -159,7 +159,7 @@ export const mealData = [
   {
     id: 15,
     name: "Loubia",
-    category: "chicken",
+    category: "plates",
     image:
       "https://res.cloudinary.com/dckhzlw83/image/upload/v1770317046/maxresdefault_2_a0y6he.jpg",
     price: "Da100",
