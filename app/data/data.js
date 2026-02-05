@@ -74,7 +74,7 @@ export const mealData = [
     category: "plates",
     image:
       "https://res.cloudinary.com/dckhzlw83/image/upload/v1770316224/sddefault_epswbq.jpg",
-    price: "Da200",
+    price: "120Da",
   },
   {
     id: 6,
@@ -82,7 +82,7 @@ export const mealData = [
     category: "plates",
     image:
       "https://res.cloudinary.com/dckhzlw83/image/upload/v1770316330/d278b706d3644366895c53180c85c435_v3r24h.jpg",
-    price: "Da300",
+    price: "50Da",
   },
   {
     id: 7,
@@ -90,7 +90,7 @@ export const mealData = [
     category: "plates",
     image:
       "https://res.cloudinary.com/dckhzlw83/image/upload/v1770316400/Chorba-frik_rl97yk.webp",
-    price: "Da100",
+    price: "200Da",
   },
   {
     id: 8,
@@ -98,7 +98,7 @@ export const mealData = [
     category: "plates",
     image:
       "https://res.cloudinary.com/dckhzlw83/image/upload/v1770316461/harira-alg%C3%A9rienne1_mux7pd.jpg",
-    price: "Da140",
+    price: "200Da",
   },
   {
     id: 16,
@@ -106,7 +106,7 @@ export const mealData = [
     category: "salad",
     image:
       "https://res.cloudinary.com/dckhzlw83/image/upload/v1770316534/hq720_njofxr.jpg",
-    price: "Da140",
+    price: "500Da",
   },
   {
     id: 9,
@@ -114,7 +114,7 @@ export const mealData = [
     category: "salty",
     image:
       "https://res.cloudinary.com/dckhzlw83/image/upload/v1770316589/sddefault_1_w735ab.jpg",
-    price: "Da300",
+    price: "50Da",
   },
   {
     id: 10,
@@ -122,7 +122,7 @@ export const mealData = [
     category: "plates",
     image:
       "https://res.cloudinary.com/dckhzlw83/image/upload/v1770316664/maxresdefault_wznt1r.jpg",
-    price: "Da300",
+    price: "300Da",
   },
   {
     id: 11,
@@ -130,7 +130,7 @@ export const mealData = [
     category: "plates",
     image:
       "https://res.cloudinary.com/dckhzlw83/image/upload/v1770316721/maxresdefault_1_kug4b8.jpg",
-    price: "Da200",
+    price: "40Da",
   },
   {
     id: 12,
@@ -138,7 +138,7 @@ export const mealData = [
     category: "plates",
     image:
       "https://res.cloudinary.com/dckhzlw83/image/upload/v1770316779/Tajine-Zitoune-III_djnhh1.jpg",
-    price: "Da100",
+    price: "350Da",
   },
   {
     id: 13,
