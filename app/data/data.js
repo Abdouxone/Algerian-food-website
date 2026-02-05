@@ -70,98 +70,98 @@ export const topPicks = [
 export const mealData = [
   {
     id: 5,
-    name: "cheeseless pizza",
+    name: "Frites Omelette",
     category: "pizza",
     image:
-      "https://res.cloudinary.com/ehizeex-shop/image/upload/v1672324456/NetflixApp/cheeseless_pizza_bkuecz.jpg",
+      "https://res.cloudinary.com/dckhzlw83/image/upload/v1770316224/sddefault_epswbq.jpg",
     price: "Da200",
   },
   {
     id: 6,
-    name: "Supreme Pizza",
+    name: "Karantika",
     category: "pizza",
     image:
-      "https://res.cloudinary.com/ehizeex-shop/image/upload/v1672324455/NetflixApp/Supreme_Pizza_jtvkj8.jpg",
+      "https://res.cloudinary.com/dckhzlw83/image/upload/v1770316330/d278b706d3644366895c53180c85c435_v3r24h.jpg",
     price: "Da300",
   },
   {
     id: 7,
-    name: "pepperoni pizza",
+    name: "Chorba Frik",
     category: "pizza",
     image:
-      "https://res.cloudinary.com/ehizeex-shop/image/upload/v1672324456/NetflixApp/pepperoni_pizza_axwdat.jpg",
+      "https://res.cloudinary.com/dckhzlw83/image/upload/v1770316400/Chorba-frik_rl97yk.webp",
     price: "Da100",
   },
   {
     id: 8,
-    name: "Cheese Pizza",
+    name: "Harira Algérienne",
     category: "pizza",
     image:
-      "https://res.cloudinary.com/ehizeex-shop/image/upload/v1672324456/NetflixApp/chinese_pizza_kgnbo1.jpg",
+      "https://res.cloudinary.com/dckhzlw83/image/upload/v1770316461/harira-alg%C3%A9rienne1_mux7pd.jpg",
     price: "Da140",
   },
   {
     id: 16,
-    name: "African Salad",
+    name: "Rechta",
     category: "Salad",
     image:
-      "https://res.cloudinary.com/ehizeex-shop/image/upload/v1672323870/NetflixApp/African_Salad_s7vgxn.png",
+      "https://res.cloudinary.com/dckhzlw83/image/upload/v1770316534/hq720_njofxr.jpg",
     price: "Da140",
   },
   {
     id: 9,
-    name: "Kale Salad",
+    name: "Bourak",
     category: "salad",
     image:
-      "https://res.cloudinary.com/ehizeex-shop/image/upload/v1672323860/NetflixApp/kale_salad_ogune3.jpg",
+      "https://res.cloudinary.com/dckhzlw83/image/upload/v1770316589/sddefault_1_w735ab.jpg",
     price: "Da300",
   },
   {
     id: 10,
-    name: "Ceasar Salad",
+    name: "Zviti",
     category: "salad",
     image:
-      "https://res.cloudinary.com/ehizeex-shop/image/upload/v1672323859/NetflixApp/caesar-salad-with-tuna-30216-1_noflfd.jpg",
+      "https://res.cloudinary.com/dckhzlw83/image/upload/v1770316664/maxresdefault_wznt1r.jpg",
     price: "Da300",
   },
   {
     id: 11,
-    name: "Loaded Salad",
+    name: "Mhajeb",
     category: "salad",
     image:
-      "https://res.cloudinary.com/ehizeex-shop/image/upload/v1672323860/NetflixApp/loaded_salad_qq5jup.jpg",
+      "https://res.cloudinary.com/dckhzlw83/image/upload/v1770316721/maxresdefault_1_kug4b8.jpg",
     price: "Da200",
   },
   {
     id: 12,
-    name: "chiken_shawarma",
+    name: "Tajine Zitoune",
     category: "chiken",
     image:
-      "https://res.cloudinary.com/ehizeex-shop/image/upload/v1672323737/NetflixApp/chiken_shawarma_c0ysna.jpg",
+      "https://res.cloudinary.com/dckhzlw83/image/upload/v1770316779/Tajine-Zitoune-III_djnhh1.jpg",
     price: "Da100",
   },
   {
     id: 13,
-    name: "Wings",
+    name: "Couscous",
     category: "chicken",
     image:
-      "https://res.cloudinary.com/ehizeex-shop/image/upload/v1672322922/NetflixApp/chicken-wings_lv3zc9.jpg",
+      "https://res.cloudinary.com/dckhzlw83/image/upload/v1770316918/algerian-food-01-1024x640_fdiyk4.jpg",
     price: "Da100",
   },
   {
     id: 14,
-    name: "Roasted Chicken",
+    name: "Baghrir",
     category: "chicken",
     image:
-      "https://res.cloudinary.com/ehizeex-shop/image/upload/v1672322922/NetflixApp/roast-chicken_nrc6r8.jpg",
+      "https://res.cloudinary.com/dckhzlw83/image/upload/v1770317002/8085d90bf9b94a9f99d2f510be9ece25_rgjoti.jpg",
     price: "Da300",
   },
   {
     id: 15,
-    name: "Chicken Tenders",
+    name: "Loubia",
     category: "chicken",
     image:
-      "https://res.cloudinary.com/ehizeex-shop/image/upload/v1672322923/NetflixApp/chicken_tenders_quel6y.jpg",
+      "https://res.cloudinary.com/dckhzlw83/image/upload/v1770317046/maxresdefault_2_a0y6he.jpg",
     price: "Da100",
   },
 ];
