@@ -146,7 +146,7 @@ export const mealData = [
     category: "plates",
     image:
       "https://res.cloudinary.com/dckhzlw83/image/upload/v1770316918/algerian-food-01-1024x640_fdiyk4.jpg",
-    price: "Da100",
+    price: "400Da",
   },
   {
     id: 14,
@@ -154,7 +154,7 @@ export const mealData = [
     category: "sugary",
     image:
       "https://res.cloudinary.com/dckhzlw83/image/upload/v1770317002/8085d90bf9b94a9f99d2f510be9ece25_rgjoti.jpg",
-    price: "Da300",
+    price: "120Da",
   },
   {
     id: 15,
@@ -162,7 +162,7 @@ export const mealData = [
     category: "plates",
     image:
       "https://res.cloudinary.com/dckhzlw83/image/upload/v1770317046/maxresdefault_2_a0y6he.jpg",
-    price: "Da100",
+    price: "180Da",
   },
 ];
 

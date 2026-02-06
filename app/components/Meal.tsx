@@ -11,32 +11,32 @@ export default function Meal() {
   };
   return (
     <div className="mt-10 max-w-400 m-auto">
-      <h1 className="text-2xl text-center text-orange-500 font-bold mb-5">
+      <h1 className="text-4xl text-center text-orange-500 font-bold mb-5">
         Algerian Plates
       </h1>
 
       <div className="flex justify-center">
         <button
           onClick={() => setCurrentMeal(mealData)}
-          className="border rounded-3xl px-3 m-3   border-orange-700 text-white bg-orange-700 hover:bg-white hover:text-orange-700  "
+          className="border rounded-4xl px-3 py-2 m-3   border-orange-700 text-white bg-orange-700 hover:bg-white hover:text-orange-700  "
         >
           All
         </button>
         <button
           onClick={() => filterMeal("plates")}
-          className="border rounded-3xl px-3 m-3  border-orange-700 text-white bg-orange-700 hover:bg-white hover:text-orange-700 "
+          className="border rounded-4xl px-3 py-2 m-3  border-orange-700 text-white bg-orange-700 hover:bg-white hover:text-orange-700 "
         >
           Plates
         </button>
         <button
           onClick={() => filterMeal("salty")}
-          className="border rounded-3xl px-3 m-3  border-orange-700 text-white bg-orange-700 hover:bg-white hover:text-orange-700 "
+          className="border rounded-4xl px-3 py-2 m-3  border-orange-700 text-white bg-orange-700 hover:bg-white hover:text-orange-700 "
         >
           Salty
         </button>
         <button
           onClick={() => filterMeal("sugary")}
-          className="border rounded-3xl px-3 m-3  border-orange-700 text-white bg-orange-700 hover:bg-white hover:text-orange-700 "
+          className="border rounded-4xl px-3 py-2 m-3  border-orange-700 text-white bg-orange-700 hover:bg-white hover:text-orange-700 "
         >
           Sugars
         </button>
@@ -55,7 +55,7 @@ export default function Meal() {
               />
               <div className="flex px-4 justify-between py-2">
                 <p className="font-bold">{meal.name}</p>
-                <p className="bg-orange-700 rounded-full h-16 text-md w-16 -mt-10 text-white py-4 px-1 border-4 border-gray-200">
+                <p className="bg-orange-700 rounded-full text-center h-16 text-md w-16 -mt-10 text-white py-4 px-1 border-4 border-gray-200">
                   {meal.price}
                 </p>
               </div>
